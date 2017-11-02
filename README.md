@@ -3,6 +3,7 @@
 ## Overview:
 This project analyzes bias on wikipedia by computing and analyzing two metric: 
 a) # of articles by country's population 
+
 b) Ratio of high quality articles to article count
 
 Analysis involves observing the top and bottom 10 countries for the above two metric. 
