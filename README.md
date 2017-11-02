@@ -2,6 +2,7 @@
 # Analyzing biases in Wikipedia data
 ## Overview:
 This project analyzes bias on wikipedia by computing and analyzing two metric: 
+
 a) # of articles by country's population 
 
 b) Ratio of high quality articles to article count
