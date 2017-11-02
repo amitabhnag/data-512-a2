@@ -16,7 +16,9 @@ Countries with low "ratio of high quality articles to article count" metric have
 3) Open the hcds-a2-bias.ipynb on this git repository and run steps 1 thru 5. Please ensure you have internet connectivity while you are running the notebook as the code calls ORES REST APIs. ORES is "Objective Revision Evaluation Service" by wikipedia and it provides quality score for a wikipedia article. ORES REST API information is available here: https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context 
 https://www.mediawiki.org/wiki/ORES
 
-## My personal reflection and data analysis:
+## My personal reflection on the project and data analysis:
+1) 
 
 
-CC-BY-SA 
+Data is released under CC-BY-SA 4.0 license
+Code is released under MIT license
