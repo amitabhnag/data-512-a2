@@ -1,4 +1,4 @@
-CC-By# Analyzing biases in Wikipedia data
+# Analyzing biases in Wikipedia data
 ## Overview:
 This project analyzes bias on wikipedia by computing and analyzing two metric: 
 a) # of articles per country 
