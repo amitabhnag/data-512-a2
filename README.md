@@ -7,7 +7,7 @@ a) # of articles by country's population
 
 b) Ratio of high quality articles to article count
 
-Analysis involves observing the top and bottom 10 countries for the above two metric. Articles related to political figures from a variety of countries are used for this analysis.
+Analysis involves observing the top and bottom 10 countries for the above two metric. Articles related to political figures from multiple countries are used for this analysis.
 
 Countries that are low on "# of articles by country's population" metric, are under-represented on wikipedia and vice versa. 
 Countries with low "ratio of high quality articles to article count" metric have low representation of good quality articles on wikipedia and vice versa
